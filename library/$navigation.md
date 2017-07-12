@@ -6,7 +6,7 @@
 - [amWiki功能导图](?file=001-学习amWiki/02-amWiki功能导图 "amWiki功能导图")
 - [如何开始一个新amWiki轻文库](?file=001-学习amWiki/03-如何开始一个新amWiki轻文库 "如何开始一个新amWiki轻文库")
 - [如何编辑amWiki轻文库](?file=001-学习amWiki/04-如何编辑amWiki轻文库 "如何编辑amWiki轻文库")
-- **学习markdown**
+- **学习markdown？**
     - [Markdown快速开始](?file=001-学习amWiki/05-学习markdown/01-Markdown快速开始 "Markdown快速开始")
     - [amWiki与语法高亮](?file=001-学习amWiki/05-学习markdown/02-amWiki与语法高亮 "amWiki与语法高亮")
     - [amWiki与流程图](?file=001-学习amWiki/05-学习markdown/03-amWiki与流程图 "amWiki与流程图")
