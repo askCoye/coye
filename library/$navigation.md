@@ -20,6 +20,7 @@
 
 ##### Oracle
 - **Server_Configuration**
+
 - **Managing_Database_Availability**
     - [Configure_Recovery_Manager](?file=003-Oracle/02-Managing_Database_Availability/0001-Configure_Recovery_Manager "Configure_Recovery_Manager")
     - [Mantain_Recovery_Catalogs](?file=003-Oracle/02-Managing_Database_Availability/0002-Mantain_Recovery_Catalogs "Mantain_Recovery_Catalogs")
