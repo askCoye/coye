@@ -20,7 +20,7 @@
 
 ##### Oracle
 - **Managing_Database_Availability**
-    - [Configure_Recovery_Manager](?file=003-Oracle/01-Managing_Database_Availability/01-Configure_Recovery_Manager "Configure_Recovery_Manager")
+    - [Configure_Recovery_Manager](?file=003-Oracle/Managing_Database_Availability/Configure_Recovery_Manager "Configure_Recovery_Manager")
 - **Server_Configuration**
 
 ##### MySQL
