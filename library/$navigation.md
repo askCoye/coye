@@ -21,6 +21,9 @@
 ##### Oracle
 - **Managing_Database_Availability**
     - [Configure_Recovery_Manager](?file=003-Oracle/Managing_Database_Availability/Configure_Recovery_Manager "Configure_Recovery_Manager")
+    - [Mantain_Recovery_Catalogs](?file=003-Oracle/Managing_Database_Availability/Mantain_Recovery_Catalogs "Mantain_Recovery_Catalogs")
+    - [Use_RMAN_to_Perform_Complete_Database_Restore_and_Recovery_Operations](?file=003-Oracle/Managing_Database_Availability/Use_RMAN_to_Perform_Complete_Database_Restore_and_Recovery_Operations "Use_RMAN_to_Perform_Complete_Database_Restore_and_Recovery_Operations")
+    - [Use_RMAN_to_Perform_Database_Backups](?file=003-Oracle/Managing_Database_Availability/Use_RMAN_to_Perform_Database_Backups "Use_RMAN_to_Perform_Database_Backups")
 - **Server_Configuration**
 
 ##### MySQL
