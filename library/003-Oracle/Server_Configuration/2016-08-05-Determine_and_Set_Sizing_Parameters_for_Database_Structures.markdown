@@ -1,12 +1,3 @@
----
-layout: post
-title:  "2 Determine and Set Sizing Parameters for Database Structures"
-date:   2016-08-05 10:48:57 +0000
-comments: true
-categories: Server_Configuration
----
-
-
 1. oracle 官方文档 ->  Masters Book List -> Administrator’s Guide -> 2 Creating and Configuring an Oracle Database -> [Specifying Initialization Parameters](http://docs.oracle.com/cd/E11882_01/server.112/e25494/create.htm#CIAFAFFG)
 
 2. 查看和定位数据库的各种参数
